@@ -1,0 +1,58 @@
+.header{
+    width: 100%;
+    height: 104px;
+    background-color: #742727;
+}
+.heder_logo{
+
+    font-family: "Advent Pro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+
+    font-size: 50px;
+    margin-left: 32px;
+    padding-top: 24px;
+    color: #FF9090;
+}
+.header_txt{
+    font-size: 20px;
+    margin-left: 1365px;
+    color: white;
+}
+.reiwers{
+    
+   
+    max-width: 1277px;
+}
+
+.lod{
+    
+    font-size: 20px;
+}
+.reiwers_one{
+     padding-top: 28px;
+}
+.reiwers_two{
+    padding-top: 28px; 
+}
+.reiwers_ther{
+    padding-top: 28px;
+}
+.reiwers_fo{
+    padding-top: 28px;
+}
+.reiwers_fife{
+    padding-top: 28px;
+}
+.reiwers_six{
+    padding-top: 28px;
+}
+.reiwers_sewen{
+    padding-top: 28px;
+}
+.reiwers_eith{
+    padding-top: 28px;
+}
